@@ -1,0 +1,100 @@
+1	Young Physicist	Codeforces	Codeforces Beta Round #63 (Div. 2)	1	
+2	Beautiful Matrix	Codeforces	Codeforces Round #161 (Div. 2)	1	
+3	Queue at the School	Codeforces	Codeforces Round #163 (Div. 2)	1	
+4	Borze	Codeforces	Codeforces Beta Round #32 (Div. 2, Codeforces format)	1	
+5	Beautiful Year	Codeforces	Codeforces Round #166 (Div. 2)	1	
+6	Lights Out	Codeforces	Codeforces Round #168 (Div. 2)	1	
+7	Word	Codeforces	Codeforces Beta Round #55 (Div. 2)	1	
+8	Word Capitalization	Codeforces	Codeforces Round #172 (Div. 2)	1	
+9	Nearly Lucky Number	Codeforces	Codeforces Beta Round #84 (Div. 2 Only)	1	
+10	Stones on the Table	Codeforces	Codeforces Round #163 (Div. 2)	1	
+11	Panoramix's Prediction	Codeforces	Codeforces Beta Round #69 (Div. 2 Only)	1	
+12	Ultra-Fast Mathematician	Codeforces	Codeforces Beta Round #57 (Div. 2)	1	
+13	Perfect Permutation	Codeforces	Codeforces Round #144 (Div. 2)	1	
+14	Arrival of the General	Codeforces	Codeforces Round #103 (Div. 2)	1	
+15	Drinks	Codeforces	Codeforces Round #126 (Div. 2)	1	
+16	Insomnia cure	Codeforces	Codeforces Round #105 (Div. 2)	1	
+17	Cupboards	Codeforces	Codeforces Round #152 (Div. 2)	1	
+18	I_love_\%username\%	Codeforces	Codeforces Round #109 (Div. 2)	1	
+19	Tram	Codeforces	Codeforces Beta Round #87 (Div. 2 Only)	1	
+20	Helpful Maths	Codeforces	Codeforces Round #197 (Div. 2)	1	
+21	Is your horseshoe on the other hoof?	Codeforces	Codeforces Round #141 (Div. 2)	1	
+22	Way Too Long Words	Codeforces	Codeforces Beta Round #65 (Div. 2)	1	
+23	Boy or Girl	Codeforces	Codeforces Round #146 (Div. 2)	1	
+24	Amusing Joke	Codeforces	Codeforces Round #101 (Div. 2)	1	
+25	Soft Drinking	Codeforces	Codeforces Round #107 (Div. 2)	1	
+26	HQ9+	Codeforces	Codeforces Beta Round #96 (Div. 2)	1	
+27	Petya and Strings	Codeforces	Codeforces Beta Round #85 (Div. 2 Only)	1	
+28	Team	Codeforces	Codeforces Round #143 (Div. 2)	1	
+29	Bit++	Codeforces	Codeforces Round #173 (Div. 2)	1	
+30	Effective Approach	Codeforces	Codeforces Round #140 (Div. 2)	2	
+31	Dima and Friends	Codeforces	Codeforces Round #167 (Div. 2)	2	
+32	Jzzhu and Children	Codeforces	Codeforces Round #257 (Div. 2)	2	
+33	Supercentral Point	Codeforces	Codeforces Round #112 (Div. 2)	2	
+34	Petr and Book	Codeforces	Codeforces Beta Round #99 (Div. 2)	2	
+35	Parallelepiped	Codeforces	Codeforces Round #138 (Div. 2)	2	
+36	Reconnaissance 2	Codeforces	Codeforces Beta Round #34 (Div. 2)	2	
+37	Even Odds	Codeforces	Codeforces Round #188 (Div. 2)	2	
+38	Little Elephant and Rozdil	Codeforces	Codeforces Round #129 (Div. 2)	2	
+39	Hexadecimal's theorem	Codeforces	Codeforces Round #125 (Div. 2)	2	
+40	Jeff and Digits	Codeforces	Codeforces Round #204 (Div. 2)	2	
+41	Xenia and Ringroad	Codeforces	Codeforces Round #197 (Div. 2)	2	
+42	Magic Numbers	Codeforces	Codeforces Round #189 (Div. 2)	2	
+43	Translation	Codeforces	Codeforces Beta Round #40 (Div. 2)	2	
+44	Football	Codeforces	Codeforces Beta Round #42 (Div. 2)	2	
+45	Bicycle Chain	Codeforces	Codeforces Round #132 (Div. 2)	2	
+46	Sale	Codeforces	Codeforces Beta Round #34 (Div. 2)	2	
+47	System of Equations	Codeforces	Codeforces Round #131 (Div. 2)	2	
+48	Business trip	Codeforces	Codeforces Round #106 (Div. 2)	2	
+49	Dubstep	Codeforces	Codeforces Round #130 (Div. 2)	2	
+50	k-String	Codeforces	Codeforces Round #135 (Div. 2)	2	
+51	The number of positions	Codeforces	Codeforces Beta Round #92 (Div. 2 Only)	2	
+52	Football	Codeforces	Codeforces Beta Round #77 (Div. 2 Only)	2	
+53	String Task	Codeforces	Codeforces Beta Round #89 (Div. 2)	2	
+54	Little Elephant and Function	Codeforces	Codeforces Round #136 (Div. 2)	2	
+55	Present from Lena	Codeforces	Codeforces Beta Round #89 (Div. 2)	2	
+56	Dragons	Codeforces	Codeforces Round #142 (Div. 2)	2	
+57	Puzzles	Codeforces	Codeforces Round #196 (Div. 2)	2	
+58	Chat room	Codeforces	Codeforces Beta Round #54 (Div. 2)	2	
+59	Airport	Codeforces	Codeforces Round #134 (Div. 2)	2	
+60	DZY Loves Chessboard	Codeforces	Codeforces Round #254 (Div. 2)	3	
+61	Pashmak and Flowers	Codeforces	Codeforces Round #261 (Div. 2)	3	
+62	Jeff and Periods	Codeforces	Codeforces Round #204 (Div. 2)	3	
+63	Little Girl and Game	Codeforces	Codeforces Round #169 (Div. 2)	3	
+64	Sail	Codeforces	Codeforces Round #180 (Div. 2)	3	
+65	Shower Line	Codeforces	Codeforces Round #247 (Div. 2)	3	
+66	Shooshuns and Sequence	Codeforces	Codeforces Round #137 (Div. 2)	3	
+67	Xenia and Divisors	Codeforces	Codeforces Round #199 (Div. 2)	3	
+68	Letter	Codeforces	Codeforces Beta Round #42 (Div. 2)	3	
+69	Kitahara Haruki's Gift	Codeforces	Codeforces Round #248 (Div. 2)	3	
+70	Comparing Strings	Codeforces	Codeforces Round #118 (Div. 2)	3	
+71	Hungry Sequence	Codeforces	Codeforces Round #191 (Div. 2)	3	
+72	Big Segment	Codeforces	Codeforces Round #149 (Div. 2)	3	
+73	Little Elephant and Bits	Codeforces	Codeforces Round #157 (Div. 1) & Codeforces Round #157 (Div. 2)	3	
+74	Yaroslav and Permutations	Codeforces	Codeforces Round #179 (Div. 2)	3	
+75	Fence	Codeforces	Codeforces Round #211 (Div. 2)	3	
+76	TL	Codeforces	Codeforces Round #203 (Div. 2)	3	
+77	Increase and Decrease	Codeforces	Codeforces Round #151 (Div. 2)	3	
+78	Two Bags of Potatoes	Codeforces	Codeforces Round #148 (Div. 2)	3	
+79	Unlucky Ticket	Codeforces	Codeforces Round #111 (Div. 2)	3	
+80	Boys and Girls	Codeforces	Codeforces Round #154 (Div. 2)	3	
+81	Easy Number Challenge	Codeforces	Codeforces Round #146 (Div. 2)	3	
+82	Pythagorean Theorem II	Codeforces	Codeforces Round #183 (Div. 2)	3	
+83	Cards with Numbers	Codeforces	Codeforces Round #155 (Div. 2)	3	
+84	Domino	Codeforces	Codeforces Round #205 (Div. 2)	3	
+85	Cinema Line	Codeforces	Codeforces Round #202 (Div. 2)	3	
+86	Rank List	Codeforces	Codeforces Round #113 (Div. 2)	3	
+87	Cut Ribbon	Codeforces	Codeforces Round #119 (Div. 2)	3	
+88	IQ Test	Codeforces	Codeforces Round #176 (Div. 2)	3	
+89	Building Permutation	Codeforces	Codeforces Round #175 (Div. 2)	3	
+90	Kuriyama Mirai's Stones	Codeforces	Codeforces Round #248 (Div. 2)	3	
+91	T-primes	Codeforces	Codeforces Round #142 (Div. 2)	3	
+92	Sereja and Suffixes	Codeforces	Codeforces Round #215 (Div. 2)	3	
+93	Flipping Game	Codeforces	Codeforces Round #191 (Div. 2)	3	
+94	Free Cash	Codeforces	Codeforces Round #147 (Div. 2)	3	
+95	Polo the Penguin and Matrix	Codeforces	Codeforces Round #177 (Div. 2)	4	
+96	Jzzhu and Sequences	Codeforces	Codeforces Round #257 (Div. 2)	4	
+97	Appleman and Card Game	Codeforces	Codeforces Round #263 (Div. 2)	4	
+98	Sort the Array	Codeforces	Codeforces Round #258 (Div. 2)	4	
+99	Sereja and Bottles	Codeforces	Codeforces Round #187 (Div. 2)	4	
+100	Adding Digits	Codeforces	Codeforces Round #158 (Div. 2)	4	

@@ -1,0 +1,101 @@
+ID	Problem Name	Online Judge	Contest	Difficulty Level	Depends On
+1	Anton and Letters	Codeforces	Codeforces Round #253 (Div. 2)	1	
+2	Way Too Long Words	Codeforces	Codeforces Beta Round #65 (Div. 2)	1	
+3	Young Physicist	Codeforces	Codeforces Beta Round #63 (Div. 2)	1	
+4	Coder	Codeforces	Codeforces Round #225 (Div. 2)	1	
+5	Collecting Beats is Fun	Codeforces	Codeforces Round #219 (Div. 2)	2	
+6	Fox and Cross	Codeforces	Codeforces Round #228 (Div. 2)	3	
+7	Archer	Codeforces	Codeforces Round #185 (Div. 2)	3	
+8	Sereja and Suffixes	Codeforces	Codeforces Round #215 (Div. 2)	3	
+9	Ladder	Codeforces	Codeforces Round #171 (Div. 2)	4	
+10	Color the Fence	Codeforces	Codeforces Round #202 (Div. 2)	4	
+11	Vasya and Robot	Codeforces	Codeforces Round #206 (Div. 1) & Codeforces Round #206 (Div. 2)	4	
+12	Fools and Roads	Codeforces	Codeforces Round #121 (Div. 1) & Codeforces Round #121 (Div. 2)	4	
+13	Dima and Hares	Codeforces	Codeforces Round #208 (Div. 2)	4	
+14	Xenia and Weights	Codeforces	Codeforces Round #197 (Div. 2)	4	
+15	Inna and Dima	Codeforces	Codeforces Round #220 (Div. 2)	4	
+16	Cows and Sequence	Codeforces	Codeforces Round #174 (Div. 1) & Codeforces Round #174 (Div. 2)	4	
+17	Psychos in a Line	Codeforces	Codeforces Round #189 (Div. 1) & Codeforces Round #189 (Div. 2)	4	
+18	Greg and Graph	Codeforces	Codeforces Round #179 (Div. 1) & Codeforces Round #179 (Div. 2)	4	
+19	Number of Ways	Codeforces	Codeforces Round #266 (Div. 2)	4	
+20	Working out	Codeforces	Codeforces Round #245 (Div. 1) & Codeforces Round #245 (Div. 2)	4	
+21	Read Time	Codeforces	Codeforces Round #200 (Div. 1) & Codeforces Round #200 (Div. 2)	4	
+22	Cow Program	Codeforces	Codeforces Round #174 (Div. 1) & Codeforces Round #174 (Div. 2)	4	
+23	LCM Challenge	Codeforces	Codeforces Round #146 (Div. 1) & Codeforces Round #146 (Div. 2)	4	
+24	Bubble Sort Graph	Codeforces	Codeforces Round #198 (Div. 2) & Codeforces Round #198 (Div. 1)	4	
+25	Beautiful Numbers	Codeforces	Codeforces Round #181 (Div. 2)	4	
+26	Counting Kangaroos is Fun	Codeforces	Codeforces Round #219 (Div. 1) & Codeforces Round #219 (Div. 2)	4	
+27	Little Girl and Maximum Sum	Codeforces	Codeforces Round #169 (Div. 2)	4	
+28	Little Girl and Maximum XOR	Codeforces	Codeforces Round #169 (Div. 2)	4	
+29	No to Palindromes!	Codeforces	Codeforces Round #265 (Div. 1) & Codeforces Round #265 (Div. 2)	4	
+30	George and Job	Codeforces	Codeforces Round #267 (Div. 2)	4	
+31	Matrix	Codeforces	Codeforces Round #213 (Div. 1) & Codeforces Round #213 (Div. 2)	4	
+32	Round Table Knights	Codeforces	Codeforces Beta Round #65 (Div. 2)	4	
+33	Caesar's Legions	Codeforces	Codeforces Beta Round #89 (Div. 2)	4	
+34	Zero Tree	Codeforces	Codeforces Round #168 (Div. 1) & Codeforces Round #168 (Div. 2)	4	
+35	Maximum Submatrix 2	Codeforces	Codeforces Round #221 (Div. 1) & Codeforces Round #221 (Div. 2)	4	
+36	Password	Codeforces	Codeforces Beta Round #93 (Div. 1 Only) & Codeforces Beta Round #93 (Div. 2 Only)	4	
+37	Book of Evil	Codeforces	Codeforces Round #196 (Div. 2) & Codeforces Round #196 (Div. 1)	5	
+38	Lucky Tree	Codeforces	Codeforces Beta Round #84 (Div. 1 Only) & Codeforces Beta Round #84 (Div. 2 Only)	5	
+39	Jzzhu and Cities	Codeforces	Codeforces Round #257 (Div. 1) & Codeforces Round #257 (Div. 2)	5	
+40	Ciel and Duel	Codeforces	Codeforces Round #190 (Div. 1) & Codeforces Round #190 (Div. 2)	5	
+41	Array and Operations	Codeforces	Codeforces Round #284 (Div. 1) & Codeforces Round #284 (Div. 2)	5	
+42	Increase Sequence	Codeforces	Codeforces Round #266 (Div. 2)	5	
+43	Choosing Capital for Treeland	Codeforces	Codeforces Round #135 (Div. 2)	5	
+44	Fox and Minimal path	Codeforces	Codeforces Round #228 (Div. 1) & Codeforces Round #228 (Div. 2)	5	
+45	Kalila and Dimna in the Logging Industry	Codeforces	Codeforces Round #189 (Div. 1) & Codeforces Round #189 (Div. 2)	5	
+46	Vessels	Codeforces	Codeforces Round #218 (Div. 2)	5	
+47	Greg and Friends	Codeforces	Codeforces Round #179 (Div. 1) & Codeforces Round #179 (Div. 2)	5	
+48	Sereja and the Arrangement of Numbers	Codeforces	Codeforces Round #215 (Div. 1) & Codeforces Round #215 (Div. 2)	5	
+49	Super M	Codeforces	Codeforces Round #328 (Div. 2)	5	
+50	Count Good Substrings	Codeforces	Codeforces Round #258 (Div. 2)	5	
+51	Roman and Numbers	Codeforces	Codeforces Round #235 (Div. 2)	5	
+52	Dima and Bacteria	Codeforces	Codeforces Round #234 (Div. 2)	5	
+53	Civilization	Codeforces	Codeforces Round #260 (Div. 1) & Codeforces Round #260 (Div. 2)	5	
+54	Enemy is weak	Codeforces	Codeforces Beta Round #57 (Div. 2)	5	
+55	Dima and Salad	Codeforces	Codeforces Round #214 (Div. 2)	5	
+56	Little Elephant and Array	Codeforces	Codeforces Round #136 (Div. 1) & Codeforces Round #136 (Div. 2)	5	
+57	Prime Number	Codeforces	Codeforces Round #209 (Div. 2)	5	
+58	Prefixes and Suffixes	Codeforces	Codeforces Round #246 (Div. 2)	5	
+59	A Lot of Games	Codeforces	Codeforces Round #260 (Div. 1) & Codeforces Round #260 (Div. 2)	5	
+60	Ciel the Commander	Codeforces	Codeforces Round #190 (Div. 1) & Codeforces Round #190 (Div. 2)	5	
+61	Painting Fence	Codeforces	Codeforces Round #256 (Div. 2)	5	
+62	Breaking Good	Codeforces	Codeforces Round #287 (Div. 2)	5	
+63	Eternal Victory	Codeforces	Codeforces Beta Round #57 (Div. 2)	5	
+64	XOR on Segment	Codeforces	Codeforces Round #149 (Div. 2)	5	
+65	Sereja and Subsequences	Codeforces	Codeforces Round #187 (Div. 1) & Codeforces Round #187 (Div. 2)	5	
+66	Levko and Array	Codeforces	Codeforces Round #210 (Div. 1) & Codeforces Round #210 (Div. 2)	5	
+67	Gargari and Permutations	Codeforces	Codeforces Round #264 (Div. 2)	5	
+68	Watching Fireworks is Fun	Codeforces	Codeforces Round #219 (Div. 1) & Codeforces Round #219 (Div. 2)	5	
+69	Valid Sets	Codeforces	Codeforces Round #277 (Div. 2)	5	
+70	Pashmak and Parmida's problem	Codeforces	Codeforces Round #261 (Div. 2)	5	
+71	Maximum Value	Codeforces	Codeforces Round #276 (Div. 1) & Codeforces Round #276 (Div. 2)	5	
+72	Pashmak and Graph	Codeforces	Codeforces Round #261 (Div. 2)	5	
+73	Fox and Card Game	Codeforces	Codeforces Round #228 (Div. 1) & Codeforces Round #228 (Div. 2)	5	
+74	Strip	Codeforces	Codeforces Round #278 (Div. 1) & Codeforces Round #278 (Div. 2)	5	
+75	Propagating tree	Codeforces	Codeforces Round #225 (Div. 1) & Codeforces Round #225 (Div. 2)	5	
+76	Sausage Maximization	Codeforces	Codeforces Round #173 (Div. 2)	5	
+77	Sereja ans Anagrams	Codeforces	Codeforces Round #215 (Div. 1) & Codeforces Round #215 (Div. 2)	5	
+78	Good Substrings	Codeforces	Codeforces Round #166 (Div. 2)	5	
+79	Appleman and Tree	Codeforces	Codeforces Round #263 (Div. 1) & Codeforces Round #263 (Div. 2)	5	
+80	MUH and Cube Walls	Codeforces	Codeforces Round #269 (Div. 2)	5	
+81	Pair of Numbers	Codeforces	Codeforces Round #209 (Div. 2)	5	
+82	Sereja and Brackets	Codeforces	Codeforces Round #223 (Div. 1) & Codeforces Round #223 (Div. 2)	5	
+83	Water Tree	Codeforces	Codeforces Round #200 (Div. 1)	5	
+84	Antimatter	Codeforces	Codeforces Round #225 (Div. 1)	6	
+85	LIS of Sequence	Codeforces	Codeforces Round #277 (Div. 2)	6	
+86	The Maths Lecture	Codeforces	Codeforces Round #287 (Div. 2)	6	
+87	Number Transformation II	Codeforces	Codeforces Round #201 (Div. 1) & Codeforces Round #201 (Div. 2)	6	
+88	Fools and Foolproof Roads	Codeforces	Codeforces Round #212 (Div. 2)	6	
+89	Lucky Queries	Codeforces	Codeforces Round #104 (Div. 1)	6	
+90	Caisa and Tree	Codeforces	Codeforces Round #264 (Div. 2)	6	
+91	Valera and Fools	Codeforces	Codeforces Round #216 (Div. 2)	6	
+92	Blood Cousins	Codeforces	Codeforces Round #130 (Div. 2)	6	
+93	Information Graph	Codeforces	Codeforces Round #266 (Div. 2)	6	
+94	Vasya and Beautiful Arrays	Codeforces	Codeforces Round #206 (Div. 1) & Codeforces Round #206 (Div. 2)	6	
+95	Little Girl and Problem on Trees	Codeforces	Codeforces Round #169 (Div. 2)	6	
+96	Valera and Queries	Codeforces	Codeforces Round #216 (Div. 2)	6	
+97	Yaroslav and Divisors	Codeforces	Codeforces Round #182 (Div. 1)	6	
+98	Shaass the Great	Codeforces	Codeforces Round #178 (Div. 2)	7	
+99	Tree and Queries	Codeforces	Codeforces Round #221 (Div. 1)	7	
+100	Xenia and Tree	Codeforces	Codeforces Round #199 (Div. 2)	7
